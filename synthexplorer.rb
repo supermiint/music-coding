@@ -3,10 +3,10 @@ synth = [:beep, :blade, :bnoise, :chipbass, :chiplead,
          :dsaw, :dtri, :dull_bell, :fm, :gnoise, :growl,
          :hollow, :hoover, :noise, :piano, :pluck, :pnoise,
          :pretty_bell, :prophet, :pulse, :saw, :sine, :square,
-         :subpulse, :supersaw, :tb303, :tech_saws, :tri, :zawa]
+         :subpulse, :supersaw, :tb303, :tech_saws, :tri, :zawa] # synth name 
 for i in synth
   print i
   use_synth i
-  play 53
-  sleep 1
+  play 53 # play note
+  sleep 1 # duration 
 end
