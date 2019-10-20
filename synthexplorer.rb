@@ -1,3 +1,5 @@
+#Expolrer sounds of synth on Sonic pi 
+# Anocha Upontian Signal Music Noise
 synth = [:beep, :blade, :bnoise, :chipbass, :chiplead,
          :chipnoise, :cnoise, :dark_ambience, :dpulse,
          :dsaw, :dtri, :dull_bell, :fm, :gnoise, :growl,
