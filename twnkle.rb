@@ -1,7 +1,8 @@
 # default bpm = 60
 # TWINKLE TWINKLE LITTLE STAR
-# Anocha Upontian Signal Music Noiseuse_synth :beep
+# Anocha Upontian Signal Music Noise Coding
 #use_bpm 120 uncomment to change bpm
+use_synth :beep
 play 48 #C3
 sleep 0.5 # timing 0.5 beat on 60 beats per minute
 play 48 #C3
