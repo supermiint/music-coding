@@ -1,4 +1,4 @@
-#Expolrer sounds of synth on Sonic pi 
+# Explorer sounds of synth on Sonic pi 
 # Anocha Upontian Signal Music Noise Coding
 synth = [:beep, :blade, :bnoise, :chipbass, :chiplead,
          :chipnoise, :cnoise, :dark_ambience, :dpulse,
