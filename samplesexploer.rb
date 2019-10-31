@@ -1,3 +1,6 @@
+# Explorer sounds of samples on Sonic pi 
+# Anocha Upontian Signal Music Noise Coding
+
 # Ambient
 ambients = [ :ambi_soft_buzz, :ambi_swoosh, :ambi_drone,
              :ambi_glass_hum, :ambi_glass_rub, :ambi_haunted_hum,
