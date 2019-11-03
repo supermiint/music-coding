@@ -1,3 +1,5 @@
+# Explorer sounds of synth on Sonic pi 
+# Anocha Upontian Signal Music Noise Coding
 use_bpm 135
 live_loop :simplebeat do
   sample :drum_heavy_kick, rate: 1, amp: 1.5
