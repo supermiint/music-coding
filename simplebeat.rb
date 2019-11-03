@@ -1,4 +1,4 @@
-# Explorer sounds of synth on Sonic pi 
+# Simble beat use sample 
 # Anocha Upontian Signal Music Noise Coding
 use_bpm 135
 live_loop :simplebeat do
